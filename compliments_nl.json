@@ -27,13 +27,13 @@
                 "Was het eten lekker?"
     ],
    "day_sunny" : [
-                "De zon staat hoog aan de hemel vandaag!"
-                "Het is een prachtig zonnige dag"
+                "De zon staat hoog aan de hemel vandaag!",
+                "Het is een prachtig zonnige dag",
                 "Wat een weertje."
     ],
    "day_cloudy" : [
-                "Het is bewolkt vandaag."
-                "Wat een prachtige wolken'"
+                "Het is bewolkt vandaag.",
+                "Wat een prachtige wolken"
     ],
    "cloudy" : [ 
                 "Er zijn wat wolkjes aan de lucht."
