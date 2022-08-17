@@ -1,2 +1,2 @@
-# MagicMirror Combliments
+# MagicMirror Compliments
 compliments NL
