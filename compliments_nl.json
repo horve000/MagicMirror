@@ -59,22 +59,35 @@
                 "Thor slaat weer goed met zijn hamer."
     ],
    "snow" : [
+                "Het sneeuwt!!"",
+                "Tijd voor een sneeuwballen gevecht.",
+                "Tijd om een sneeuwman te maken."
     ],
    "fog" : [
+                "Let op het is mistig!"
     ],
    "night_clear" : [
+                "Wat een heldere lucht."",
+                "wat een mooie heldere nacht.
     ],
    "night_cloudy" : [
+                "Het is bewolkt vannacht."
     ],
    "night_showers" : [
+                "Wat bui'tjes. Gelukkig is het nacht."
     ],
    "night_rain" : [
+                "Regen, regen en nog eens regen. Slaap lekker.",
+                "Zachtjes til de regen tegen het raam."
     ],
    "night_thunderstorm" : [
+                 "Gaaf, onweer. Hopelijk lig je nog niet te slapen."
     ],
    "night_snow" : [
+                 "Morgen ziet alles wit buiten. Het sneeuwt !!"
     ],
    "night_alt_cloudy_windy" : [
+                 "Slaap letkker, het regent en het waait."
     ],
 
 
