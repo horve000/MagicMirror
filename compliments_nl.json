@@ -12,7 +12,9 @@
                 "Begin de dag met een lach!",
                 "Het zal weer een prachtige dag worden!",
                 "Is het niet een geweldige dag?",
-                "Bereid je voor op een leuke dag!"
+                "Bereid je voor op een leuke dag!",
+                "Tijd voor koffie",
+                "Neem een kop koffie om wakker te worden."
    ],
   "afternoon" : [
                 "Nog even je werk afmaken...",
@@ -37,6 +39,72 @@
     ],
    "cloudy" : [ 
                 "Er zijn wat wolkjes aan de lucht."
+    ],
     ]
-                
+   "cloudy_windy" : [
+                "Wind met wolken buiten.",
+                "Als je gaat fietsen, let dan op het waait."
+    ],
+   "showers" : [
+                "Er zijn wat buien vandaag.",
+                "Hier en daar een buitje.",
+                "Kijk voor het naar buiten gaan of het regent.",
+                "Vergeet je paraplu vandaag niet!"
+    ],
+   "rain" : [
+                "Het regent buiten, vergeet je paraplu niet!",
+                "Echt Nederlands weer.",
+                "Vergeet je paraplu vandaag niet als je weg gaat."
+    ],           
+   "thunderstorm" : [
+                "WOW, gaaf onweer !!"
+                "Thor slaat weer goed met zijn hamer."
+    ]
+   "snow" : [
+   ],
+   "fog" : [
+   ],
+   "night_clear": [
+   ],
+   "night_cloudy" : [
+   ],
+   "night_showers" : [
+   ],
+   "night_rain" : [
+   ],
+   "night_thunderstorm" : [
+   ],
+   "night_snow" : [
+   ],
+   "night_alt_cloudy_windy" : [
+   ],
+  
+
+   "....=01-01" : [
+                "Gelukkig Nieuwjaar!",
+                "Happy Newyear!",
+                "De beste wensen voor het nieuwe jaar!"
+      ],
+   "....-11-28" : [
+                "Gefeliciteerd met je verjaardag, Patrick!",
+                "Alweer een jaartje ouder!"
+      ],
+   "....-12-25" : [
+                "Zalig kerstfeest toegewenst",
+                "Niet te veel eten en drinken !!",
+                "Merry Christmas!!",
+                "Ho, Ho, Ho !!!"
+      ],
+   "....-12-26" : [
+                "Zalig kerstfeest toegewenst",
+                "Niet te veel eten en drinken !!",
+                "Merry Christmas!!",
+                "Ho, Ho, Ho !!!"
+      ],
+   "....=10=31" : [ 
+                "Happy Halloween!"
+      ]
 }
+
+
+
